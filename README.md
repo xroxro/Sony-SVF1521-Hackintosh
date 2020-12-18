@@ -35,6 +35,7 @@
 - [x] Seamless software updates
 
 ## 不工作
+
 -  Fn 快捷键亮度控制
 -  原装无线网卡不工作需要替换
 -  原装蓝牙不工作需要替换
